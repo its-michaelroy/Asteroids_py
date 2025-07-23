@@ -22,10 +22,10 @@
 Inspired by the Boot.dev course, this project was a fun and practical way to learn **Pygame fundamentals**—from rendering, input handling, and OOP, to game loops and collision detection.
 
 ### 🎯 **Purpose**
-✅ Build a classic arcade game clone
-✅ Master **Pygame** — movement, sprites, collision
-✅ Practice **object-oriented programming**
-✅ Create a playable game with scoring and challenge
+- ✅ Build a classic arcade game clone
+- ✅ Master **Pygame** — movement, sprites, collision
+- ✅ Practice **object-oriented programming**
+- ✅ Create a playable game with scoring and challenge
 
 ### 🎯 **Problem Solved**
 Manual game creation can be overwhelming.
@@ -36,21 +36,21 @@ This project **simplifies the process** by:
 - Managing game flow: start, play, game over
 
 ### 🎯 **Lessons Learned**
-✔ Entity management with Pygame 'Sprites '
-✔ Handling **screen wrap** behavior
-✔ Implementing **vector movement** and thrust
-✔ Managing **game state transitions** (start → play → game over)
-✔ Organizing code for readability and maintainability
+- ✔ Entity management with Pygame 'Sprites '
+- ✔ Handling **screen wrap** behavior
+- ✔ Implementing **vector movement** and thrust
+- ✔ Managing **game state transitions** (start → play → game over)
+- ✔ Organizing code for readability and maintainability
 
 ---
 
 ## <h2 id="features">✨ Features</h2>
-✅ **Ship Movement** – Rotate and thrust using keyboard controls
-✅ **Shooting Mechanics** – Fire bullets to break asteroids
-✅ **Asteroid Dynamics** – Random spawning with progressive break‑apart
-✅ **Screen Wrapping** – Objects wrap around screen edges
-✅ **Score Tracking** – Points awarded for destroyed asteroids
-✅ **Game Over** – Display final score and restart option
+- ✅ **Ship Movement** – Rotate and thrust using keyboard controls
+- ✅ **Shooting Mechanics** – Fire bullets to break asteroids
+- ✅ **Asteroid Dynamics** – Random spawning with progressive break‑apart
+- ✅ **Screen Wrapping** – Objects wrap around screen edges
+- ✅ **Score Tracking** – Points awarded for destroyed asteroids
+- ✅ **Game Over** – Display final score and restart option
 
 # *Some features coming soon bandwidth pending!*
 ---
@@ -87,32 +87,32 @@ Follow these steps to get the game running locally:
 This project follows the Boot.dev course to create a playable Asteroids game, while leveraging **uv** to modernize Python project setup and dependency management.
 
 ### 🎯 **Purpose**
-✅ Recreate a classic arcade game
-✅ Learn **Pygame** fundamentals & OOP systems
-✅ Use **uv** for modern environment consistency
-✅ Develop a complete, playable application
+- ✅ Recreate a classic arcade game
+- ✅ Learn **Pygame** fundamentals & OOP systems
+- ✅ Use **uv** for modern environment consistency
+- ✅ Develop a complete, playable application
 
 ### 🎯 **Problem Solved**
 Manual environment setup and dependency tracking can be error-prone. This project solves it by:
-✔ Using **uv** to unify venv creation, dependency resolution, and lock‑file generation
-✔ Employing **modular classes** (`Ship`, `Asteroid`, `Bullet`, etc.)
-✔ Implementing smooth **game loop**, input handling, and collision logic
+- ✔ Using **uv** to unify venv creation, dependency resolution, and lock‑file generation
+- ✔ Employing **modular classes** (`Ship`, `Asteroid`, `Bullet`, etc.)
+- ✔ Implementing smooth **game loop**, input handling, and collision logic
 
 ### 🎯 **Lessons Learned**
-✔ Handling project dependencies using uv :contentReference[oaicite:1]{index=1}
-✔ Implementing Pygame sprite mechanics & screen wrap-around
-✔ Structuring game code with clear game states
-✔ Managing consistent development environments across systems
+- ✔ Handling project dependencies using uv :contentReference[oaicite:1]{index=1}
+- ✔ Implementing Pygame sprite mechanics & screen wrap-around
+- ✔ Structuring game code with clear game states
+- ✔ Managing consistent development environments across systems
 
 ---
 
 ## <h2 id="features">✨ Features</h2>
-✅ **Ship Movement** – Rotate and thrust with arrow keys
-✅ **Shooting Bullets** – Press Space to shoot
-✅ **Asteroid Splitting** – Large asteroids break into smaller ones
-✅ **Screen Wrapping** – Objects loop around screen edges
-✅ **Score Tracking** – Earn points by destroying asteroids
-✅ **Game Over** – Restart option upon collision
+- ✅ **Ship Movement** – Rotate and thrust with arrow keys
+- ✅ **Shooting Bullets** – Press Space to shoot
+- ✅ **Asteroid Splitting** – Large asteroids break into smaller ones
+- ✅ **Screen Wrapping** – Objects loop around screen edges
+- ✅ **Score Tracking** – Earn points by destroying asteroids
+- ✅ **Game Over** – Restart option upon collision
 
 ---
 
@@ -179,8 +179,11 @@ uv run main.py
 ## <h2 id="credits">💡 Credits</h2>
 
 👨‍💻 **Developer:** [Lane Wagner](https://github.com/wagslane)
+
 🏫 **Tutorial:** [Boot.dev “Build Asteroids using Python and Pygame”](https://www.boot.dev/courses/build-asteroids-python)
+
 🧩 **Assets:** Custom shapes or sourced from free-to-use libraries (if applicable)
+
 📚 **References:**
 
 * [Pygame Documentation](https://www.pygame.org/docs/)
@@ -191,4 +194,3 @@ uv run main.py
 ## <h2 id="license">📜 License</h2>
 
 This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
-```
